@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\employeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\employeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\employeadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\employeadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\migrations\\20241118042519_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\migrations\\20241118042519_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|c:\\users\\kavee\\source\\repos\\employeadminportal\\employeadminportal\\employeadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D09CB235-5575-44AF-81FA-E70C590A9843}|EmployeAdminPortal\\EmployeAdminPortal.csproj|solutionrelative:employeadminportal\\employeadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:11:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwFsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:34:43.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:48:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeAdminPortal",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "RelativeToolTip": "EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T03:36:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241118042519_Intial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Migrations\\20241118042519_Intial Migration.cs",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\Migrations\\20241118042519_Intial Migration.cs",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Migrations\\20241118042519_Intial Migration.cs",
+              "RelativeToolTip": "EmployeAdminPortal\\Migrations\\20241118042519_Intial Migration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:25:20.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeAdminPortal.http",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\EmployeAdminPortal.http",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\EmployeAdminPortal.http",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\EmployeAdminPortal.http",
+              "RelativeToolTip": "EmployeAdminPortal\\EmployeAdminPortal.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-18T03:42:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeAdminPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:40:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeAdminPortal",
+              "DocumentMoniker": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "RelativeDocumentMoniker": "EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "ToolTip": "C:\\Users\\kavee\\source\\repos\\EmployeAdminPortal\\EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "RelativeToolTip": "EmployeAdminPortal\\EmployeAdminPortal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T03:38:29.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
